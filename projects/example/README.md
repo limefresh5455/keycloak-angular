@@ -15,9 +15,4 @@ To start the application, please execute `npm run showcase`
 
 Then access: [http://localhost:4200](http://localhost:4200)
 
-```
-User: admin
-Passwd: admin
-```
 
-> Hint: To access keycloak admin, please use: http://localhost:8080. Same user and password as above.
